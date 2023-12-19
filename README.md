@@ -6,3 +6,4 @@ My second career as a software engineer started with [Noteable](https://noteable
 
 My current interests are twofold: learning Rust and becoming more comfortable applying practical AI. I am excited about Rust because its syntax, build tools, and ecosystem are approachable. It's also blazing fast and compact. I believe the future of performant Python is Rust. Deploying apps to the browser with web-assembly has a lot of promise, and Rust has a tremendous story there. As far as AI goes, the experience with Noteable was "magical" but we were effectively just interacting with OpenAI APIs, whether it was ChatGPT making calls to us or our app making calls to OpenAI. I'm looking for opportunities to utilize local models, work with multi-modal models, and learn about deploying and optimizing models in production.
 
+Outside of work I spend my time solving programming puzzles, playing video games, rock climbing with my wife, and taking care of our two young boys.
